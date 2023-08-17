@@ -1,8 +1,7 @@
-from tkinter import *
 import math
 
 # Función para manejar el clic en los botones
-def click(event):
+def click(event):x
     # Obtener el texto del botón clicado
     text = event.widget.cget("text")
    
